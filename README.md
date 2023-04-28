@@ -44,23 +44,23 @@ A MERN stack app for storing profile links of people you admire, at one place.
 
 #### Desktop/Tablet Home
 
-![Home1](https://github.com/ramonfrombr/mern-profile-store/blob/master/screenshots/desktop-tablet-1.png)
-![Home2](https://github.com/ramonfrombr/mern-profile-store/blob/master/screenshots/desktop-tablet-2.png)
+![Home1](https://github.com/ramonfrombr/mern-profile-store/blob/main/screenshots/desktop-tablet-1.png)
+![Home2](https://github.com/ramonfrombr/mern-profile-store/blob/main/screenshots/desktop-tablet-2.png)
 
 #### Auth Forms
 
-![Auth Forms1](https://github.com/ramonfrombr/mern-profile-store/blob/master/screenshots/auth-forms-1.png)
-![Auth Forms2](https://github.com/ramonfrombr/mern-profile-store/blob/master/screenshots/auth-forms-1.png)
+![Auth Forms1](https://github.com/ramonfrombr/mern-profile-store/blob/main/screenshots/auth-forms-1.png)
+![Auth Forms2](https://github.com/ramonfrombr/mern-profile-store/blob/main/screenshots/auth-forms-1.png)
 
 #### Pop-up windows (modals)
 
-![Pop-up windows 1](https://github.com/ramonfrombr/mern-profile-store/blob/master/screenshots/modals-1.png)
-![Pop-up windows 2](https://github.com/ramonfrombr/mern-profile-store/blob/master/screenshots/modals-2.png)
-![Pop-up windows 3](https://github.com/ramonfrombr/mern-profile-store/blob/master/screenshots/modals-3.png)
+![Pop-up windows 1](https://github.com/ramonfrombr/mern-profile-store/blob/main/screenshots/modals-1.png)
+![Pop-up windows 2](https://github.com/ramonfrombr/mern-profile-store/blob/main/screenshots/modals-2.png)
+![Pop-up windows 3](https://github.com/ramonfrombr/mern-profile-store/blob/main/screenshots/modals-3.png)
 
 #### Mobile UI
 
-![Mobile UI - 1](https://github.com/ramonfrombr/mern-profile-store/blob/master/screenshots/mobile-1.png)
+![Mobile UI - 1](https://github.com/ramonfrombr/mern-profile-store/blob/main/screenshots/mobile-1.png)
 
 ## Usage
 
